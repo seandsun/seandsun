@@ -1,26 +1,29 @@
-<h2 align='center'><code>< Hello_World 🧸 ></code>   I'm Marisol 👋</h2>
+<h1 align='center'><code>< Hello_World ></code> I'm Marisol :wave: </h1>
 
-<h3 align='center'> Soy tecnóloga en desarrollo de software residente en Colombia 🌎, y mientras continúo mejoranado mis habilidades y descubriendo este maravilloso mundo del desarrollo de software 💻, felizmente trato de aprender algo nuevo cada día con las tecnologías que poco a poco he hido dominando. ⚙ </h3>
+<br>
 
-<div>
-  <h2><img src="http://www.nyan.cat/cats/floppy.gif" alt="computer" width="60"> Actualmente estoy...</h2>
-</div>
+**Soy tecnóloga en desarrollo de software residente en ***Colombia*** :earth_americas:.**
 
+**Me gustra trabajar en el mejoramiento continúo de mis ***habilidades*** y en el descubrimiento de este maravilloso mundo del ***desarrollo web*** :computer:, por lo que felizmente trato de aprender algo nuevo cada día con las tecnologías que poco a poco he hido conociendo y dominando :muscle:.**
 
-- 📁Trabajando como asesora comercial de medio tiempo en [FUCN](https://ucn.edu.co) mientras estudio la carrera de Ingeniería Informática en [FUCN](https://ucn.edu.co).
-- 🖱 Practicando codificación con retos de programación para mejorar la lógica y el código.
-- ⌨ Diariamente uso: `.py` `.js` `.html` `.css` `.bash`
+## <img src="https://www.nyan.cat/cats/tacnayn.gif" alt="cat" width="60"> Actualmente estoy...
 
+<br>
 
+:file_folder: Trabajando como asesora comercial de medio tiempo en [FUCN](https://ucn.edu.co).<br><br>
+:mortar_board: Cursando mi grado de ***Ingeniería Informática*** en [FUCN](https://ucn.edu.co).<br><br>
+:shipit: Practicando codificación con retos de programación para mejorar la lógica y el código.<br><br>
+:rocket: Diariamente uso: `.html` `.css` `.js` `.py` `.bash`<br><br>
 
-> seandsun
+>"Si ya sabes lo que tienes que hacer y no lo haces, entonces estás peor que antes".<br> 
+>>Confucio :octocat:
 
+<br>
 
-
-> <h2 align='center'><code>< Hello_World 🧸> 🗿</code></h2>
+<h2 align='center'><code>< seandsun ></code></h2>
 
 <!--
-**tipos de gatos** 
+**tipos de gatos de https://www.nyan.cat/cats** 
 tecnayn
 nyanninja
 jazz
