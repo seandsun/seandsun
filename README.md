@@ -82,6 +82,10 @@ Me gusta trabajar en el mejoramiento continúo de mis **habilidades** y en el de
 <!-- Mis repositorios -->
 ### :rocket: Mis repositorios
 
+<a href="https://github.com/seandsun/bambina-theme">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=bambina-theme&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/seandsun/github-emojis">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=github-emojis&theme=tokyonight" />
 </a>
