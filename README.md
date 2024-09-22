@@ -66,24 +66,11 @@ Me gusta trabajar en el mejoramiento continúo de mis **habilidades** y en el de
 <!-- Línea -->
 <img src="images/Linea.gif">
 
-<!-- Gráfico de actividad -->
-### :fire: Actividad en GitHub
-
-<!-- Gráfico de rachas y lenguajes más utilizados -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=seandsun&theme=tokyonight&show_icons=true&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seandsun&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
-
 <!-- Mis repositorios -->
 ### :rocket: Mis repositorios
 
-<a href="https://github.com/seandsun/github-emojis">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=github-emojis&theme=tokyonight" />
+<a href="https://github.com/seandsun/AdventJs">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=AdventJs&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/seandsun/bambina-theme">
