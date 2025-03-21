@@ -6,7 +6,7 @@
 <!-- Experiencia en blucle -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=900&color=5282E9&center=true&random=false&width=435&lines=Mi+experiencia+ha+sido+desarrollando;proyectos+para+mejorar+mi+perfil;como+desarrolladora+Front-End." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=900&color=5282E9&center=true&random=false&width=435&lines=Mi+experiencia+ha+sido+desarrollando;mini-proyectos+que+han+fortalecido;mi+perfil+como+Front-End+developer." />
   </a>
 </p>
 
@@ -15,7 +15,6 @@
 <!-- Estudios -->
 ```javascript
 const marisolHenao = {
-  pronouns: "she - her",
   studies: ["Tec. Desarrollo de software", "Ing. Informática", "Ciberseguridad"]
 }
 ``` 
@@ -27,16 +26,16 @@ const marisolHenao = {
 
 <!-- Lo que hago actualmente -->
 - [x] :mortar_board: Cursando mi grado de **Ingeniería Informática** en [FUCN](https://ucn.edu.co).
-- [x] :shipit: Practicando codificación con retos de programación para mejorar la lógica y el código.
+- [x] :shipit: Mejorando la lógica y la calidad del código a través de la resolución de retos de programación y el desarrollo de proyectos web.
 
 <br>
 
 <!-- Descripción sobre mí -->
 ## <picture><img src="images/Developer.gif" alt="developer gif"  height="45px"></picture> Sobre mí
 
-Soy **tecnóloga en desarrollo de software** residente en :earth_americas: **Colombia**.
+Soy **tecnóloga en desarrollo de software**, residente en :earth_americas: **Colombia**.
 
-Me gusta trabajar en el mejoramiento continúo de mis **habilidades** y en el descubrimiento de este maravilloso mundo del **desarrollo web** :computer:, por lo que felizmente trato de aprender algo nuevo cada día con las **tecnologías** que poco a poco he hido conociendo y dominando :muscle:.
+Mi enfoque profesional se centra en el perfeccionamiento continuo de mis **habilidades**, así como en la exploración y el dominio del fascinante mundo del **desarrollo web**. Con una mentalidad de aprendizaje constante, me esfuerzo por adquirir nuevos conocimientos y perfeccionar las **tecnologías** que he ido incorporando a lo largo de mi carrera :computer:.
 
 <br>
 
@@ -48,7 +47,7 @@ Me gusta trabajar en el mejoramiento continúo de mis **habilidades** y en el de
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,py,bash,vscode,md,notion,obsidian,linux,windows&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,obsidian,figma" />
   </a>
 </p>
 <br>
@@ -57,7 +56,7 @@ Me gusta trabajar en el mejoramiento continúo de mis **habilidades** y en el de
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,npm,mysql,ubuntu,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,mysql,linux" />
   </a>
 </p>
 
@@ -69,12 +68,8 @@ Me gusta trabajar en el mejoramiento continúo de mis **habilidades** y en el de
 <!-- Mis repositorios -->
 ### :rocket: Mis repositorios
 
-<a href="https://github.com/seandsun/AdventJs">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=AdventJs&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/seandsun/bambina-theme">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=bambina-theme&theme=tokyonight" />
+<a href="https://github.com/seandsun/generador-paleta-de-colores">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=generador-paleta-de-colores&theme=tokyonight" />
 </a>
 
 <br><br>
