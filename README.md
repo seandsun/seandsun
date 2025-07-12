@@ -68,8 +68,8 @@ Mi enfoque profesional se centra en el perfeccionamiento continuo de mis **habil
 <!-- Mis repositorios -->
 ### :rocket: Mis repositorios
 
-<a href="https://github.com/seandsun/generador-paleta-de-colores">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=generador-paleta-de-colores&theme=tokyonight" />
+<a href="https://github.com/seandsun/monorepo-zero-react">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=monorepo-zero-react&theme=tokyonight" />
 </a>
 
 <br><br>
