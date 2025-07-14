@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center">I'm <a  href="https://github.com/seandsun/">Marisol!</a> :wave:</h1>
+<h1 align="center">I'm <a  href="https://github.com/seandsun/">Marisol!</a> :wave: <picture><img src="images/Front_End.gif" width="40"></picture></h1> 
 
 <br><br>
 
@@ -22,20 +22,17 @@ const marisolHenao = {
 <br>
 
 <!-- Imagen: persona en una laptop y titulo -->
-## <picture><img src="images/Now_Person.gif" alt="developer gif"  height="45px"></picture> En la actualidad estoy:
-
-<!-- Lo que hago actualmente -->
-- [x] :mortar_board: Cursando mi grado de **Ingeniería Informática** en [FUCN](https://ucn.edu.co).
-- [x] :shipit: Mejorando la lógica y la calidad del código a través de la resolución de retos de programación y el desarrollo de proyectos web.
-
-<br>
+## <picture><img src="images/Now_Person.gif" alt="developer gif"  height="45px"></picture> Sobre mí
 
 <!-- Descripción sobre mí -->
-## <picture><img src="images/Developer.gif" alt="developer gif"  height="45px"></picture> Sobre mí
-
 Soy **tecnóloga en desarrollo de software**, residente en :earth_americas: **Colombia**.
 
-Mi enfoque profesional se centra en el perfeccionamiento continuo de mis **habilidades**, así como en la exploración y el dominio del fascinante mundo del **desarrollo web**. Con una mentalidad de aprendizaje constante, me esfuerzo por adquirir nuevos conocimientos y perfeccionar las **tecnologías** que he ido incorporando a lo largo de mi carrera :computer:.
+Nunca imaginé que terminaría en el mundo del **desarrollo web**, pero hoy disfruto cada oportunidad de aprender y seguir creciendo como profesional. A lo largo de mi carrera he incorporado nuevas **tecnologías** y he fortalecido tanto mis **habilidades técnicas** como **blandas**, siempre con curiosidad y ganas de mejorar. Creo firmemente que el aprendizaje continuo es clave para aportar más valor en cada proyecto y crear soluciones mejor pensadas, bien estructuradas y sostenibles en el tiempo. :computer:
+
+Actualmente me encuentro:
+
+- [x] :mortar_board: Cursando mi grado de **Ingeniería Informática** en [FUCN](https://ucn.edu.co).
+- [x] :shipit: Fortaleciendo mi lógica de programación y la calidad de mi código mediante retos de programación y el desarrollo de proyectos web.
 
 <br>
 
@@ -66,41 +63,28 @@ Mi enfoque profesional se centra en el perfeccionamiento continuo de mis **habil
 <img src="images/Linea.gif">
 
 <!-- Mis repositorios -->
-### :rocket: Mis repositorios
+### <picture><img src="images/Developer.gif" alt="developer gif"  height="45px"></picture> Mis repositorios
+
+<a href="https://github.com/seandsun/monorepo-zero-html-css">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=monorepo-zero-html-css&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/seandsun/monorepo-zero-html-css-js">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=monorepo-zero-html-css-js&theme=tokyonight" />
+</a>
 
 <a href="https://github.com/seandsun/monorepo-zero-react">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=monorepo-zero-react&theme=tokyonight" />
 </a>
-
 <br><br>
 
-<!-- Redes de contacto -->
-<!-- Gato -->
-<h2 align="center"> Contacto: </h2>
-
-<p align="center">  
-  <a href="mailto:henao.1213@gmail.com" >
-    <img align="" alt="Marisol Henao | Gmail" src="https://skillicons.dev/icons?i=gmail" />
-  </a>  
-  <a href="https://www.linkedin.com/in/marisol-henao-grajales" target="_blank">
-    <img align="" alt="Marisol Henao | Linkedin" src="https://skillicons.dev/icons?i=linkedin" />    
-  </a>
-</p> 
-
-<br>
+<!-- Línea -->
+<img src="images/Linea.gif">
 
 <!-- Frase-->
 <div align="center"> 
-
+  
   [![Quotify](https://github-readme-quotify.vercel.app/api?&type=horizontal&theme=catppuccin_macchiato&quote=Si+ya+sabes+lo+que+tienes+que+hacer+y+no+lo+haces,+entonces+estás+peor+que+antes.&author=Confucio)](https://github.com/Vishal-beep136/github-readme-quotify)
 </div>
-
-<!-- Frase en bucle -->
-<p align="center">
-<picture><img src="images/Front_End.gif" width="130"></picture>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=900&color=5282E9&center=true&size=16&random=false&width=435&lines=Front-End+loading..." />
-  </a>
-</p>
 
 <h3 align="center">< seandsun /></h3>
