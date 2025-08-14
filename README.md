@@ -76,6 +76,10 @@ Actualmente me encuentro:
 <a href="https://github.com/seandsun/monorepo-zero-react">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=monorepo-zero-react&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/seandsun/monorepo-zero-astro">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seandsun&repo=monorepo-zero-astro&theme=tokyonight" />
+</a>
 <br><br>
 
 <!-- Línea -->
